@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.Cong_btn = new System.Windows.Forms.Button();
             this.Tru_btn = new System.Windows.Forms.Button();
             this.Nhan_btn = new System.Windows.Forms.Button();
@@ -38,6 +39,10 @@
             this.textBox_a = new System.Windows.Forms.TextBox();
             this.textBox_b = new System.Windows.Forms.TextBox();
             this.textBox_ketqua = new System.Windows.Forms.TextBox();
+            this.errorProvider1 = new System.Windows.Forms.ErrorProvider(this.components);
+            this.errorProvider2 = new System.Windows.Forms.ErrorProvider(this.components);
+            ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.errorProvider2)).BeginInit();
             this.SuspendLayout();
             // 
             // Cong_btn
@@ -131,6 +136,14 @@
             this.textBox_ketqua.TabIndex = 10;
             this.textBox_ketqua.TextChanged += new System.EventHandler(this.textBox_ketqua_TextChanged);
             // 
+            // errorProvider1
+            // 
+            this.errorProvider1.ContainerControl = this;
+            // 
+            // errorProvider2
+            // 
+            this.errorProvider2.ContainerControl = this;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -148,6 +161,8 @@
             this.Controls.Add(this.Cong_btn);
             this.Name = "Form1";
             this.Text = "Form1";
+            ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.errorProvider2)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -165,6 +180,8 @@
         private System.Windows.Forms.TextBox textBox_a;
         private System.Windows.Forms.TextBox textBox_b;
         private System.Windows.Forms.TextBox textBox_ketqua;
+        private System.Windows.Forms.ErrorProvider errorProvider1;
+        private System.Windows.Forms.ErrorProvider errorProvider2;
     }
 }
 

@@ -17,6 +17,17 @@ namespace _2001207444_NguyenHuuDai
             InitializeComponent();
         }
 
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            DialogResult result = MessageBox.Show("Bạn có muốn đóng form không?", "Xác nhận", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+
+            if (result == DialogResult.No)
+            {
+                e.Cancel = true; // Ngăn form từ việc đóng
+            }
+        }
+
+
         private void label_b_Click(object sender, EventArgs e)
         {
 
@@ -29,7 +40,7 @@ namespace _2001207444_NguyenHuuDai
 
         private void textBox_a_TextChanged(object sender, EventArgs e)
         {
-
+            
         }
 
         private void Cong_btn_Click(object sender, EventArgs e)
@@ -38,6 +49,7 @@ namespace _2001207444_NguyenHuuDai
             int soThuHai = Convert.ToInt32(textBox_b.Text);
             int Kq = soThuNhat + soThuHai;
             textBox_ketqua.Text = Kq.ToString();
+
         }
 
         private void Tru_btn_Click(object sender, EventArgs e)

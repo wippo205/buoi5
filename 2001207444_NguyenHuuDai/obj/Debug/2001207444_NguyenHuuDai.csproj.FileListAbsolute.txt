@@ -7,3 +7,4 @@ C:\Users\h1h1m\OneDrive\Máy tính\Net\2001207444_NguyenHuuDai\2001207444_Nguyen
 C:\Users\h1h1m\OneDrive\Máy tính\Net\2001207444_NguyenHuuDai\2001207444_NguyenHuuDai\obj\Debug\2001207444_NguyenHuuDai.csproj.GenerateResource.Cache
 C:\Users\h1h1m\OneDrive\Máy tính\Net\2001207444_NguyenHuuDai\2001207444_NguyenHuuDai\obj\Debug\2001207444_NguyenHuuDai.exe
 C:\Users\h1h1m\OneDrive\Máy tính\Net\2001207444_NguyenHuuDai\2001207444_NguyenHuuDai\obj\Debug\2001207444_NguyenHuuDai.pdb
+C:\Users\h1h1m\OneDrive\Máy tính\Net\2001207444_NguyenHuuDai\2001207444_NguyenHuuDai\obj\Debug\_2001207444_NguyenHuuDai.FormClosing.resources
