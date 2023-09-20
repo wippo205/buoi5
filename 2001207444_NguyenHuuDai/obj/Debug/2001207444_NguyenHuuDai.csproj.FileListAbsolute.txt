@@ -1,0 +1,9 @@
+C:\Users\h1h1m\OneDrive\Máy tính\Net\2001207444_NguyenHuuDai\2001207444_NguyenHuuDai\bin\Debug\2001207444_NguyenHuuDai.exe.config
+C:\Users\h1h1m\OneDrive\Máy tính\Net\2001207444_NguyenHuuDai\2001207444_NguyenHuuDai\bin\Debug\2001207444_NguyenHuuDai.exe
+C:\Users\h1h1m\OneDrive\Máy tính\Net\2001207444_NguyenHuuDai\2001207444_NguyenHuuDai\bin\Debug\2001207444_NguyenHuuDai.pdb
+C:\Users\h1h1m\OneDrive\Máy tính\Net\2001207444_NguyenHuuDai\2001207444_NguyenHuuDai\obj\Debug\2001207444_NguyenHuuDai.csprojResolveAssemblyReference.cache
+C:\Users\h1h1m\OneDrive\Máy tính\Net\2001207444_NguyenHuuDai\2001207444_NguyenHuuDai\obj\Debug\_2001207444_NguyenHuuDai.Form1.resources
+C:\Users\h1h1m\OneDrive\Máy tính\Net\2001207444_NguyenHuuDai\2001207444_NguyenHuuDai\obj\Debug\_2001207444_NguyenHuuDai.Properties.Resources.resources
+C:\Users\h1h1m\OneDrive\Máy tính\Net\2001207444_NguyenHuuDai\2001207444_NguyenHuuDai\obj\Debug\2001207444_NguyenHuuDai.csproj.GenerateResource.Cache
+C:\Users\h1h1m\OneDrive\Máy tính\Net\2001207444_NguyenHuuDai\2001207444_NguyenHuuDai\obj\Debug\2001207444_NguyenHuuDai.exe
+C:\Users\h1h1m\OneDrive\Máy tính\Net\2001207444_NguyenHuuDai\2001207444_NguyenHuuDai\obj\Debug\2001207444_NguyenHuuDai.pdb
